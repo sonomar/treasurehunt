@@ -1,2 +1,0 @@
-# treasurehunt
-Scavenger Hunt App
