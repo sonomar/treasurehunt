@@ -1,0 +1,2 @@
+treasurehuntapp = angular.module('treasurehuntapp',[
+])
