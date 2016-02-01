@@ -1,0 +1,9 @@
+I"£(function() {
+  var receta, treasurehuntapp;
+
+  treasurehuntapp = angular.module('treasurehuntapp', []);
+
+  receta = angular.module('raceta', []);
+
+}).call(this);
+:ET
