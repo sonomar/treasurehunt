@@ -1,7 +1,0 @@
-I"v(function() {
-  var treasurehuntapp;
-
-  treasurehuntapp = angular.module('treasurehuntapp', []);
-
-}).call(this);
-:ET

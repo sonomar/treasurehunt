@@ -1,2 +1,0 @@
-treasurehuntapp = angular.module('treasurehuntapp',[
-])
